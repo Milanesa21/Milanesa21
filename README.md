@@ -31,3 +31,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/mauroidesouza/mauroidesouza/output/snake.svg" alt="Snake animation">
