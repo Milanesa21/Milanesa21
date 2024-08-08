@@ -13,6 +13,10 @@
 </div>
 
 ---
+<img src="https://raw.githubusercontent.com/MIlanesa21/MIlanesa21/output/snake.svg" alt="Snake animation" />
+
+###
+---
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milanesa21&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" style="flex: 1; height: 200px;" />
