@@ -29,7 +29,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
-
 ### GitHub Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Milanesa21&bg_color=1a1b27&color=ffffff&line=38a1db&point=6cca3d&area=true&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Milanesa21&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
