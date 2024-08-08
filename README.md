@@ -1,4 +1,4 @@
-## Hi 👋! My name is Diego Jara and I'm a Software Developer from Argentina.
+## Hi 👋! My name is Diego Jara and I'm a Software Engineer from Chile.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Milanesa21&label=Profile%20views&color=0e75b6&style=flat" alt="Milanesa21" /> </p>
 
@@ -7,11 +7,17 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegojara88574@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-jara-gallardo-b53276174/)
 
-<img align="right" src="https://media.giphy.com/media/BomiIONg7E2y2oWDaE/giphy.gif?cid=790b7611s3lxa6ujz4d0y5dtbkz41yd84a7q6b1mj9ymlno5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230" />
+<div style="display: flex; align-items: center;">
+
+  <div>
+    ![Diego Jara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Milanesa21&show_icons=true&theme=radical)
+  </div>
+  
+  <img src="https://media.giphy.com/media/BomiIONg7E2y2oWDaE/giphy.gif?cid=790b7611s3lxa6ujz4d0y5dtbkz41yd84a7q6b1mj9ymlno5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" style="margin-top: 20px;" />
+
+</div>
 
 ---
-
-![Diego Jara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Milanesa21&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Milanesa21&layout=compact&theme=radical)
 
@@ -29,6 +35,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
+
 ### GitHub Activity
 [![GitHub Streak](https://streak-stats.demolab.com?user=Milanesa21&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
