@@ -16,7 +16,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milanesa21&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" style="flex: 1; height: 250px;" />
-  <img src="https://streak-stats.demolab.com?user=Milanesa21&theme=radical&hide_border=true" alt="GitHub Streak" style="flex: 1;width:450px; height: 400px; margin-left: 40px;" />
+  <img src="https://streak-stats.demolab.com?user=Milanesa21&theme=radical&hide_border=true" alt="GitHub Streak" style="flex: 1;width:450px; height: 300px; margin-left: 40px;" />
 </div>
 
 ---
