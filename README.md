@@ -1,4 +1,4 @@
-## Hi 👋! My name is Diego Jara and I'm a Software Developer from Argentina.
+## Hi 👋! My name is Diego Jara and I'm a Software Developer from Argentina 🇦🇷🇦🇷🇦🇷.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Milanesa21&label=Profile%20views&color=0e75b6&style=flat" alt="Milanesa21" /> </p>
 
@@ -8,15 +8,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-jara-gallardo-b53276174/)
 
 <div style="display: flex; align-items: center;">
-
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Milanesa21&show_icons=true&theme=radical" alt="Diego Jara's GitHub Stats" />
-  </div>
-  
-  <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/BomiIONg7E2y2oWDaE/giphy.gif?cid=790b7611s3lxa6ujz4d0y5dtbkz41yd84a7q6b1mj9ymlno5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" style="margin-top: 20px;" />
-  </div>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Milanesa21&show_icons=true&theme=radical" alt="Diego Jara's GitHub Stats" style="flex: 1;" />
+  <img src="https://media.giphy.com/media/BomiIONg7E2y2oWDaE/giphy.gif?cid=790b7611s3lxa6ujz4d0y5dtbkz41yd84a7q6b1mj9ymlno5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" style="flex: 1; margin-left: 20px;" />
 </div>
 
 ---
