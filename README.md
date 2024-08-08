@@ -9,7 +9,7 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Milanesa21&show_icons=true&theme=radical" alt="Diego Jara's GitHub Stats" style="flex: 1;" />
-  <img src="https://media.giphy.com/media/BomiIONg7E2y2oWDaE/giphy.gif?cid=790b7611s3lxa6ujz4d0y5dtbkz41yd84a7q6b1mj9ymlno5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" height="200" style="flex: 1; margin-left: 40px;" />
+  <img src="https://media.giphy.com/media/BomiIONg7E2y2oWDaE/giphy.gif?cid=790b7611s3lxa6ujz4d0y5dtbkz41yd84a7q6b1mj9ymlno5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="350" height="200" style="flex: 1; margin-left: 40px;" />
 </div>
 
 ---
